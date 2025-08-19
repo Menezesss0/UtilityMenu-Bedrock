@@ -1,0 +1,47 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "UtilityMenu v3.0",
+    "description": "By: @menezesss0",
+    "uuid": "531221e1-c27c-41e2-a64b-328e5481b3ff",
+    "version": [
+      3,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      80
+    ]
+  },
+  "modules": [
+    {
+      "description": "UtilityMenu Resource Pack",
+      "type": "resources",
+      "uuid": "9e0d92d0-a60e-4bb2-9453-2012c4f58478",
+      "version": [
+        3,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "326a42d4-6c6b-4086-ae84-af7d5e7fa0e4",
+      "version": [
+        3,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "generated_with": {
+      "mctoolsweb": [
+        "0.11.1"
+      ]
+    }
+  }
+}
